@@ -1,0 +1,6 @@
+Go to this site and create web fonts https://www.fontsquirrel.com/tools/webfont-generator
+Upload all of those files to into github folder under Example name : /Fonts/
+Add @font-face url ./Fonts/
+Use this url as prefix to create CDN https://cdn.jsdelivr.net/gh/
+
+Example url : https://cdn.jsdelivr.net/gh/CelestineSebastian/Galaxie-Polaris/NewStyleV1.css
