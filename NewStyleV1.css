@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'Galaxie Polaris Condensed';
+    src: url('./Font/GalaxiePolarisCondensed-Bold.eot');
+    src: url('./Font/GalaxiePolarisCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./Font/GalaxiePolarisCondensed-Bold.woff2') format('woff2'),
+        url('./Font/GalaxiePolarisCondensed-Bold.woff') format('woff'),
+        url('./Font/GalaxiePolarisCondensed-Bold.ttf') format('truetype'),
+        url('./Font/GalaxiePolarisCondensed-Bold.svg#GalaxiePolarisCondensed-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galaxie Polaris Condensed';
+    src: url('./Font/GalaxiePolarisCondensed-Heavy.eot');
+    src: url('./Font/GalaxiePolarisCondensed-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('./Font/GalaxiePolarisCondensed-Heavy.woff2') format('woff2'),
+        url('./Font/GalaxiePolarisCondensed-Heavy.woff') format('woff'),
+        url('./Font/GalaxiePolarisCondensed-Heavy.ttf') format('truetype'),
+        url('./Font/GalaxiePolarisCondensed-Heavy.svg#GalaxiePolarisCondensed-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galaxie Polaris Condensed Book';
+    src: url('./Font/GalaxiePolarisCondensed-BookItalic.eot');
+    src: url('./Font/GalaxiePolarisCondensed-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('./Font/GalaxiePolarisCondensed-BookItalic.woff2') format('woff2'),
+        url('./Font/GalaxiePolarisCondensed-BookItalic.woff') format('woff'),
+        url('./Font/GalaxiePolarisCondensed-BookItalic.ttf') format('truetype'),
+        url('./Font/GalaxiePolarisCondensed-BookItalic.svg#GalaxiePolarisCondensed-BookItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galaxie Polaris Condensed';
+    src: url('./Font/GalaxiePolarisCondensed-BoldItalic.eot');
+    src: url('./Font/GalaxiePolarisCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('./Font/GalaxiePolarisCondensed-BoldItalic.woff2') format('woff2'),
+        url('./Font/GalaxiePolarisCondensed-BoldItalic.woff') format('woff'),
+        url('./Font/GalaxiePolarisCondensed-BoldItalic.ttf') format('truetype'),
+        url('./Font/GalaxiePolarisCondensed-BoldItalic.svg#GalaxiePolarisCondensed-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galaxie Polaris Condensed Book';
+    src: url('./Font/GalaxiePolarisCondensed-Book.eot');
+    src: url('./Font/GalaxiePolarisCondensed-Book.eot?#iefix') format('embedded-opentype'),
+        url('./Font/GalaxiePolarisCondensed-Book.woff2') format('woff2'),
+        url('./Font/GalaxiePolarisCondensed-Book.woff') format('woff'),
+        url('./Font/GalaxiePolarisCondensed-Book.ttf') format('truetype'),
+        url('./Font/GalaxiePolarisCondensed-Book.svg#GalaxiePolarisCondensed-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galaxie Polaris Condensed';
+    src: url('./Font/GalaxiePolarisCondensed-HeavyItalic.eot');
+    src: url('./Font/GalaxiePolarisCondensed-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('./Font/GalaxiePolarisCondensed-HeavyItalic.woff2') format('woff2'),
+        url('./Font/GalaxiePolarisCondensed-HeavyItalic.woff') format('woff'),
+        url('./Font/GalaxiePolarisCondensed-HeavyItalic.ttf') format('truetype'),
+        url('./Font/GalaxiePolarisCondensed-HeavyItalic.svg#GalaxiePolarisCondensed-HeavyItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galaxie Polaris Condensed';
+    src: url('./Font/GalaxiePolarisCondensed-Medium.eot');
+    src: url('./Font/GalaxiePolarisCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+        url('./Font/GalaxiePolarisCondensed-Medium.woff2') format('woff2'),
+        url('./Font/GalaxiePolarisCondensed-Medium.woff') format('woff'),
+        url('./Font/GalaxiePolarisCondensed-Medium.ttf') format('truetype'),
+        url('./Font/GalaxiePolarisCondensed-Medium.svg#GalaxiePolarisCondensed-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galaxie Polaris Condensed';
+    src: url('./Font/GalaxiePolarisCondensed-Light.eot');
+    src: url('./Font/GalaxiePolarisCondensed-Light.eot?#iefix') format('embedded-opentype'),
+        url('./Font/GalaxiePolarisCondensed-Light.woff2') format('woff2'),
+        url('./Font/GalaxiePolarisCondensed-Light.woff') format('woff'),
+        url('./Font/GalaxiePolarisCondensed-Light.ttf') format('truetype'),
+        url('./Font/GalaxiePolarisCondensed-Light.svg#GalaxiePolarisCondensed-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galaxie Polaris Condensed';
+    src: url('./Font/GalaxiePolarisCondensed-LightItalic.eot');
+    src: url('./Font/GalaxiePolarisCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('./Font/GalaxiePolarisCondensed-LightItalic.woff2') format('woff2'),
+        url('./Font/GalaxiePolarisCondensed-LightItalic.woff') format('woff'),
+        url('./Font/GalaxiePolarisCondensed-LightItalic.ttf') format('truetype'),
+        url('./Font/GalaxiePolarisCondensed-LightItalic.svg#GalaxiePolarisCondensed-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galaxie Polaris Condensed';
+    src: url('./Font/GalaxiePolarisCondensed-MediumItalic.eot');
+    src: url('./Font/GalaxiePolarisCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('./Font/GalaxiePolarisCondensed-MediumItalic.woff2') format('woff2'),
+        url('./Font/GalaxiePolarisCondensed-MediumItalic.woff') format('woff'),
+        url('./Font/GalaxiePolarisCondensed-MediumItalic.ttf') format('truetype'),
+        url('./Font/GalaxiePolarisCondensed-MediumItalic.svg#GalaxiePolarisCondensed-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Galaxie Polaris';
+    src: url('./Font/GalaxiePolaris-Bold.eot');
+    src: url('./Font/GalaxiePolaris-Bold.eot?#iefix') format('embedded-opentype'),
+        url('./Font/GalaxiePolaris-Bold.woff2') format('woff2'),
+        url('./Font/GalaxiePolaris-Bold.woff') format('woff'),
+        url('./Font/GalaxiePolaris-Bold.ttf') format('truetype'),
+        url('./Font/GalaxiePolaris-Bold.svg#GalaxiePolaris-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
